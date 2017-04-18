@@ -7,7 +7,7 @@ This is just to prevent the punycode phishing technique that was explained here:
 
 
 ## How to install
-1. download [release.rar](https://github.com/ShawkyZ/PunycodePhishingChecker/blob/master/release.rar?raw=true) file.
+1. Download [release.rar](https://github.com/ShawkyZ/PunycodePhishingChecker/blob/master/release.rar?raw=true) file.
 2. Extract the content.
 3. Go to Chrome Extension Manager.
 3. Enable Chrome Developer Mode.
