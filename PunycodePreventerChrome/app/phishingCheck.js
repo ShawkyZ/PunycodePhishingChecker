@@ -1,4 +1,3 @@
-debugger;
 var url = document.URL;
 var decodedUrl = punycode.toUnicode(url);
 if (url !== decodedUrl) {
