@@ -2,7 +2,6 @@ debugger;
 var url = document.URL;
 var decodedUrl = punycode.toUnicode(url);
 if (url !== decodedUrl) {
-        console.log('Possible Phishing');
         var div = document.createElement("div");
         document.body.insertBefore(div, document.body.childNodes[0]);
         div.style = "background-color: #540000; color: white;";
