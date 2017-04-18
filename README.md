@@ -4,3 +4,7 @@ This is just to prevent the punycode phishing technique that was explained here:
 
 ## if we believe that the website is using this phishing technique a message on top of the page will be shown.
 ![Unsafe message](https://github.com/ShawkyZ/PunycodePhishingChecker/blob/master/unsafe.JPG?raw=true)
+
+
+## How to use
+![How to install in chrome](https://github.com/ShawkyZ/PunycodePhishingChecker/blob/master/punycodePhishing.gif?raw=true)
