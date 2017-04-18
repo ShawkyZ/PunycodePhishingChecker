@@ -7,4 +7,10 @@ This is just to prevent the punycode phishing technique that was explained here:
 
 
 ## How to install
+1. download release.rar (https://github.com/ShawkyZ/PunycodePhishingChecker/blob/master/release.rar?raw=true) file.
+2. Extract the content.
+3. Go to Chrome Extension Manager.
+3. Enable Chrome Developer Mode.
+4. Choose Load unpacked extension.
+5. Locate the extracted folder.
 ![How to install in chrome](https://github.com/ShawkyZ/PunycodePhishingChecker/blob/master/punycodePhishing.gif?raw=true)
